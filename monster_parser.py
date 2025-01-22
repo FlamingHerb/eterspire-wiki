@@ -36,10 +36,10 @@ if __name__ == '__main__':
     target_maximum_level: int = int(sys.argv[2])
 
     icons = {
-        "Poison": "[[File:Icon-poison.jpg|center|50x50px]]Poison ",
-        "Slow": "[[File:Icon-slow.jpg|center|50x50px]]Slow ",
-        "Stun": "[[File:Icon-stun.jpg|center|50x50px]]Stun ",
-        "Blind": "[[File:Icon-blind.jpg|center|50x50px]]Blind ",        
+        "Poison": "[[File:Icon-poison.jpg|center|50x50px]][[Status Effects|Poison]]",
+        "Slow": "[[File:Icon-slow.jpg|center|50x50px]][[Status Effects|Slow]]",
+        "Stun": "[[File:Icon-stun.jpg|center|50x50px]][[Status Effects|Stun]]",
+        "Blind": "[[File:Icon-blind.jpg|center|50x50px]][[Status Effects|Blind]]",        
     }
 
     misc_items = {

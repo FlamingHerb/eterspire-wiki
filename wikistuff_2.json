@@ -183,7 +183,7 @@
 
 
         {
-            "name": "",
+            "name": "LEVEL 40 - 49",
             "img": "[[File:NAMEHERE.png|center|150x150px]]",
             "level": 0,
             "location": "",
@@ -195,7 +195,164 @@
         },
 
 
+        {
+            "name": "Murky Chompion",
+            "img": "[[File:Murky Chompion.png|center|150x150px]]",
+            "level": 40,
+            "location": "Murky Woods",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 206,
+            "misc": "Mushroom",
+            "familiar": 14
+        },
+        {
+            "name": "Lesser Amethyston",
+            "img": "[[File:Lesser Amethyston.png|center|150x150px]]",
+            "level": 41,
+            "location": "Purple Temple I",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 210,
+            "misc": "Rock",
+            "familiar": 14
+        }, 
+        {
+            "name": "Amethyston",
+            "img": "[[File:Amethyston.png|center|150x150px]]",
+            "level": 42,
+            "location": "Purple Temple I",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 215,
+            "misc": "Rock",
+            "familiar": 14
+        },
+        {
+            "name": "Amethyston Guardian",
+            "img": "[[File:Amethyston Guardian.png|center|150x150px]]",
+            "level": 42,
+            "location": "Purple Temple III",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 215,
+            "misc": "Rock",
+            "familiar": 14
+        }, 
+        {
+            "name": "Desert Scorpion",
+            "img": "[[File:Desert Scorpion.png|center|150x150px]]",
+            "level": 43,
+            "location": "Desert (South)",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 219,
+            "misc": "Bug",
+            "familiar": 15
+        }, 
+        {
+            "name": "Greater Amethyston",
+            "img": "[[File:Greater Amethyston.png|center|150x150px]]",
+            "level": 44,
+            "location": "Purple Temple II",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 224,
+            "misc": "Rock",
+            "familiar": 15
+        }, 
+        {
+            "name": "Dune Worm",
+            "img": "[[File:Dune Worm.png|center|150x150px]]",
+            "level": 45,
+            "location": "Desert (South)",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 228,
+            "misc": "Bug",
+            "familiar": 15
+        }, 
+        {
+            "name": "Angry Nabbi",
+            "img": "[[File:Angry Nabbi.png|center|150x150px]]",
+            "level": 46,
+            "location": "Caliburnus' Mill",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 233,
+            "misc": "Rock",
+            "familiar": 16
+        },
+        {
+            "name": "Evil Spirit",
+            "img": "[[File:Evil Spirit.png|center|150x150px]]",
+            "level": 47,
+            "location": "Caliburnus' Mill",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 237,
+            "misc": "Undead",
+            "familiar": 16
+        },
+        {
+            "name": "Will-o'-wisp",
+            "img": "[[File:Will-o'-wisp.png|center|150x150px]]",
+            "level": 48,
+            "location": "Alamzul's Graveyard",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 242,
+            "misc": "Undead",
+            "familiar": 16
+        },
+        {
+            "name": "Sand Snakelet",
+            "img": "[[File:Sand Snakelet.png|center|150x150px]]",
+            "level": 48,
+            "location": "Desert (North)",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 242,
+            "misc": "Reptile",
+            "familiar": 16
+        }, 
+        {
+            "name": "Lesser Sapphiron",
+            "img": "[[File:Lesser Sapphiron.png|center|150x150px]]",
+            "level": 48,
+            "location": "Blue Temple I",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 242,
+            "misc": "Rock",
+            "familiar": 16
+        }, 
+        {
+            "name": "Queen Worm",
+            "img": "[[File:Queen Worm.png|center|150x150px]]",
+            "level": 49,
+            "location": "Desert (North)",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 246,
+            "misc": "Bug",
+            "familiar": 17
+        }, 
 
+
+
+
+        {
+            "name": "LEVEL 50 - 59",
+            "img": "[[File:NAMEHERE.png|center|150x150px]]",
+            "level": 0,
+            "location": "",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 0,
+            "misc": "Bug/Animal/Mushroom/Crab/Fairy/Undead/Demon/Reptile/Rock",
+            "familiar": 0
+        },
 
 
         {
