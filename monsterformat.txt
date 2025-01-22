@@ -1,0 +1,25 @@
+|+
+! rowspan='4' style='text-align: center; background-color: #8A412E; color: white; font-family: 'Verdana'; font-weight: 900; font-size: 14px; text-shadow: black 2px 2px; paint-order: stroke fill; -webkit-text-stroke: 2px black; border: 1px solid black;' |  (Lvl. )
+|-
+|-
+! Location
+| style='text-align: center' |
+! Abiltiies
+| None
+|-
+! Damage
+| style='text-align: center' | None
+! Misc.
+| style='border-style: solid none; background-color: #E2F3FF;' |[[File:Demon Blood (Level 1).png|center|50x50px]][[Miscellaneous Items|Demon Blood]] [[Miscellaneous Items|(Level 1)]]
+| style='border-style: solid none; background-color: #E2F3FF;' |[[File:Infernal Orbs.jpg|center|50x50px]][[Miscellaneous Items|Infernal Orbs]] [[Miscellaneous Items|(Level 1)]]
+| style='border-style: solid none; background-color: #E2F3FF;' |[[File:Demonic Bracelet (Level 1).png|center|50x50px]][[Miscellaneous Items|Demonic Bracelet]] [[Miscellaneous Items|(Level 1)]]
+| style='border-style: solid none; background-color: #E2F3FF;' |
+|-
+! Experience
+| style='text-align: center' |  EXP
+! Familiar
+| colspan='4' style='border-style: solid none; ; background-color: #E2F3FF; text-align: center;' |[[File:Familiar -1.png|center|51x51px]]Magical Familiar #1
+
+|-
+| colspan='8' style='background-color: black; border: 1px solid black; padding: 0;'|
+|-

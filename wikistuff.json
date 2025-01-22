@@ -1,0 +1,377 @@
+{
+    "monsters" : [
+        {
+            "name": "",
+            "img": "",
+            "level": 0,
+            "location": "",
+            "abilities": ["None"],
+            "damage": 0,
+            "exp": 0,
+            "misc": [
+
+            ],
+            "familiar": ""
+        },
+        {
+            "name": "Impling",
+            "img": "[[File:Impling.png|center|150x150px]]",
+            "level": 1,
+            "location": "[[Zone: Peaceful Clearing|Peaceful Clearing]]",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 30,
+            "misc": [
+                "[[File:Demon Blood (Level 1).png|center|50x50px]][[Miscellaneous Items|Demon Blood <br/><small>(Level 1)</small>]]",
+                "[[File:Infernal Orbs.png|center|50x50px]][[Miscellaneous Items|Infernal Orbs <br/><small>(Level 1)</small>]]",
+                "[[File:Demonic Bracelet (Level 1).png|center|50x50px]][[Miscellaneous Items|Demonic Bracelet <br/><small>(Level 1)</small>]]"
+            ],
+            "familiar": 1
+        },
+        {
+            "name": "Dry Speckling",
+            "img": "[[File:Dry Speckling.png|center|150x150px]]",
+            "level": 2,
+            "location": "[[Stonehollow Outskirts]]",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 35,
+            "misc": [
+                "[[File:Game Meat.png|center|50x50px]][[Miscellaneous Items|Game Meat <br/><small>(Level 1)</small>]]",
+                "[[File:Beast Pelt (Level 1).png|center|50x50px]][[Miscellaneous Items|Beast Pelt <br/><small>(Level 1)</small>]]",
+                "[[File:Beast Bone.png|center|50x50px]][[Miscellaneous Items|Beast Bone <br/><small>(Level 1)</small>]]"
+            ],
+            "familiar": 1
+        },
+        {
+            "name": "White Speckling",
+            "img": "[[File:White Speckling.png|center|150x150px]]",
+            "level": 3,
+            "location": "[[Whitespeckle Plains (East)]]",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 39,
+            "misc": [
+                "[[File:Game Meat.png|center|50x50px]][[Miscellaneous Items|Game Meat <br/><small>(Level 1)</small>]]",
+                "[[File:Beast Pelt (Level 1).png|center|50x50px]][[Miscellaneous Items|Beast Pelt <br/><small>(Level 1)</small>]]",
+                "[[File:Beast Bone.png|center|50x50px]][[Miscellaneous Items|Beast Bone <br/><small>(Level 1)</small>]]"
+            ],
+            "familiar": 1
+        },
+        {
+            "name": "Squishy Crabby",
+            "img": "[[File:Squishy Crabby.png|center|150x150px]]",
+            "level": 4,
+            "location": "[[Whitespeckle Plains (East)]]",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 44,
+            "misc": [
+                "[[File:Old Coins (Level 1).png|center|50x50px]][[Miscellaneous Items|Old Coins <br/><small>(Level 1)</small>]]",
+                "[[File:Coral Bloom (Level 1).png|center|50x50px]][[Miscellaneous Items|Coral Bloom <br/><small>(Level 1)</small>]]",
+                "[[File:Seaweed (Level 1).png|center|50x50px]][[Miscellaneous Items|Seaweed <br/><small>(Level 1)</small>]]"
+            ],
+            "familiar": 2
+        },
+        {
+            "name": "Grass Speckling",
+            "img": "[[File:Grass Speckling.png|center|150x150px]]",
+            "level": 5,
+            "location": "[[Whitespeckle Plains (West)]]",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 48,
+            "misc": [
+                "[[File:Game Meat.png|center|50x50px]][[Miscellaneous Items|Game Meat <br/><small>(Level 1)</small>]]",
+                "[[File:Beast Pelt (Level 1).png|center|50x50px]][[Miscellaneous Items|Beast Pelt <br/><small>(Level 1)</small>]]",
+                "[[File:Beast Bone.png|center|50x50px]][[Miscellaneous Items|Beast Bone <br/><small>(Level 1)</small>]]"
+            ],
+            "familiar": 2
+        },
+        {
+            "name": "White Speck",
+            "img": "[[File:White Speck.png|center|150x150px]]",
+            "level": 6,
+            "location": "[[Whitespeckle Plains (West)]]",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 53,
+            "misc": [
+                "[[File:Game Meat.png|center|50x50px]][[Miscellaneous Items|Game Meat <br/><small>(Level 1)</small>]]",
+                "[[File:Beast Pelt (Level 1).png|center|50x50px]][[Miscellaneous Items|Beast Pelt <br/><small>(Level 1)</small>]]",
+                "[[File:Beast Bone.png|center|50x50px]][[Miscellaneous Items|Beast Bone <br/><small>(Level 1)</small>]]"
+            ],
+            "familiar": 2
+        },
+        {
+            "name": "Armored Crabby",
+            "img": "[[File:Armored Crabby.png|center|150x150px]]",
+            "level": 7,
+            "location": "[[Maple Woods (South)]]",
+            "abilities": ["Slow"],
+            "damage": "???",
+            "exp": 57,
+            "misc": [
+                "[[File:Old Coins (Level 1).png|center|50x50px]][[Miscellaneous Items|Old Coins <br/><small>(Level 1)</small>]]",
+                "[[File:Coral Bloom (Level 1).png|center|50x50px]][[Miscellaneous Items|Coral Bloom <br/><small>(Level 1)</small>]]",
+                "[[File:Seaweed (Level 1).png|center|50x50px]][[Miscellaneous Items|Seaweed <br/><small>(Level 1)</small>]]"
+            ],
+            "familiar": 3
+        },
+        {
+            "name": "Shadow Speckling",
+            "img": "[[File:Shadow Speckling.png|center|150x150px]]",
+            "level": 9,
+            "location": "[[Maple Woods (South)]]",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 66,
+            "misc": [
+                "[[File:Game Meat.png|center|50x50px]][[Miscellaneous Items|Game Meat <br/><small>(Level 1)</small>]]",
+                "[[File:Beast Pelt (Level 1).png|center|50x50px]][[Miscellaneous Items|Beast Pelt <br/><small>(Level 1)</small>]]",
+                "[[File:Beast Bone.png|center|50x50px]][[Miscellaneous Items|Beast Bone <br/><small>(Level 1)</small>]]"
+            ],
+            "familiar": 3
+        },
+        {
+            "name": "Ghost",
+            "img": "[[File:Ghost.png|center|150x150px]]",
+            "level": 10,
+            "location": "Cartesian Ruins",
+            "abilities": ["Slow"],
+            "damage": "???",
+            "exp": 71,
+            "misc": [
+                "[[File:Skeletal_Remnants.png|center|50x50px]][[Miscellaneous Items|Skeletal Remnants <br/><small>(Level 2)</small>]]",
+                "[[File:Necrotic_Ooze.png|center|50x50px]][[Miscellaneous Items|Necrotic Ooze <br/><small>(Level 2)</small>]]",
+                "[[File:Mourner's_Pouch.png|center|50x50px]][[Miscellaneous Items|Mourner's Pouch <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 4
+        },
+        {
+            "name": "Shadow Speck",
+            "img": "[[File:Shadow Speck.png|center|150x150px]]",
+            "level": 11,
+            "location": "Maple Woods (North)",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 75,
+            "misc": [
+                "[[File:Game Meat.png|center|50x50px]][[Miscellaneous Items|Game Meat <br/><small>(Level 2)</small>]]",
+                "[[File:Beast Pelt (Level 1).png|center|50x50px]][[Miscellaneous Items|Beast Pelt <br/><small>(Level 2)</small>]]",
+                "[[File:Beast Bone.png|center|50x50px]][[Miscellaneous Items|Beast Bone <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 4
+        },
+        {
+            "name": "Spicy Speckling",
+            "img": "[[File:Spicy Speckling.png|center|150x150px]]",
+            "level": 12,
+            "location": "Forest Falls (North)",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 80,
+            "misc": [
+                "[[File:Game Meat.png|center|50x50px]][[Miscellaneous Items|Game Meat <br/><small>(Level 2)</small>]]",
+                "[[File:Beast Pelt (Level 1).png|center|50x50px]][[Miscellaneous Items|Beast Pelt <br/><small>(Level 2)</small>]]",
+                "[[File:Beast Bone.png|center|50x50px]][[Miscellaneous Items|Beast Bone <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 4
+        },
+        {
+            "name": "Damasc",
+            "img": "[[File:Damasc.png|center|150x150px]]",
+            "level": 13,
+            "location": "Forest Falls (North)",
+            "abilities": ["Stun"],
+            "damage": "???",
+            "exp": 84,
+            "misc": [
+                "[[File:Fairy Dust.png|center|50x50px]][[Miscellaneous Items|Fairy Dust <br/><small>(Level 2)</small>]]",
+                "[[File:Fae Gems.png|center|50x50px]][[Miscellaneous Items|Fae Gems <br/><small>(Level 2)</small>]]",
+                "[[File:Fairy Wings.png|center|50x50px]][[Miscellaneous Items|Fairy Wings <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 5
+        },
+        {
+            "name": "Sturdy Crabby",
+            "img": "[[File:Sturdy Crabby.png|center|150x150px]]",
+            "level": 14,
+            "location": "Forest Falls (South)",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 89,
+            "misc": [
+                "[[File:Old Coins (Level 1).png|center|50x50px]][[Miscellaneous Items|Old Coins <br/><small>(Level 1)</small>]]",
+                "[[File:Coral Bloom (Level 1).png|center|50x50px]][[Miscellaneous Items|Coral Bloom <br/><small>(Level 1)</small>]]",
+                "[[File:Seaweed (Level 1).png|center|50x50px]][[Miscellaneous Items|Seaweed <br/><small>(Level 1)</small>]]"
+            ],
+            "familiar": 5
+        },
+        {
+            "name": "Grass Speck",
+            "img": "[[File:Grass Speck.png|center|150x150px]]",
+            "level": 14,
+            "location": "Deep Forest",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 89,
+            "misc": [
+                "[[File:Game Meat.png|center|50x50px]][[Miscellaneous Items|Game Meat <br/><small>(Level 2)</small>]]",
+                "[[File:Beast Pelt (Level 1).png|center|50x50px]][[Miscellaneous Items|Beast Pelt <br/><small>(Level 2)</small>]]",
+                "[[File:Beast Bone.png|center|50x50px]][[Miscellaneous Items|Beast Bone <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 5
+        },
+        {
+            "name": "Giant Spider",
+            "img": "[[File:Giant Spider.png|center|150x150px]]",
+            "level": 14,
+            "location": "Bishop Cave",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 89,
+            "misc": [
+                "[[File:Mandible Pieces.jpg|center|50x50px]][[Miscellaneous Items|Mandible Pieces <br/><small>(Level 2)</small>]]",
+                "[[File:Larva.jpg|center|50x50px]][[Miscellaneous Items|Larva <br/><small>(Level 2)</small>]]",
+                "[[File:Rotten Egg.jpg|center|50x50px]][[Miscellaneous Items|Rotten Egg <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 5
+        },
+        {
+            "name": "Rune Guardian",
+            "img": "[[File:Rune Guardian14.png|center|150x150px]]",
+            "level": 15,
+            "location": "Forest Falls (South)",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 93,
+            "misc": [
+                "[[File:Coin Bag.jpg|center|50x50px]][[Miscellaneous Items|Coin Bag <br/><small>(Level 2)</small>]]",
+                "[[File:Blue Gemstone.jpg|center|50x50px]][[Miscellaneous Items|Blue Gemstone <br/><small>(Level 2)</small>]]",
+                "[[File:Red Gemstone.jpg|center|50x50px]][[Miscellaneous Items|Red Gemstone <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 5
+        },
+        {
+            "name": "Chompi",
+            "img": "[[File:Chompi.png|center|150x150px]]",
+            "level": 16,
+            "location": "Deep Forest",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 98,
+            "misc": [
+                "[[File:Flamecap Fungi.jpg|center|50x50px]][[Miscellaneous Items|Flamecap Fungi <br/><small>(Level 2)</small>]]",
+                "[[File:Trumpet Spore.jpg|center|50x50px]][[Miscellaneous Items|Trumpet Spore <br/><small>(Level 2)</small>]]",
+                "[[File:Ghostcap Shroom.jpg|center|50x50px]][[Miscellaneous Items|Ghostcap Shroom <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 6
+        },
+        {
+            "name": "Poisonous Spider",
+            "img": "[[File:Poisonous Spider.png|center|150x150px]]",
+            "level": 16,
+            "location": "Spiderweb Cavern",
+            "abilities": ["Poison"],
+            "damage": "???",
+            "exp": 98,
+            "misc": [
+                "[[File:Mandible Pieces.jpg|center|50x50px]][[Miscellaneous Items|Mandible Pieces <br/><small>(Level 2)</small>]]",
+                "[[File:Larva.jpg|center|50x50px]][[Miscellaneous Items|Larva <br/><small>(Level 2)</small>]]",
+                "[[File:Rotten Egg.jpg|center|50x50px]][[Miscellaneous Items|Rotten Egg <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 6
+        },
+        {
+            "name": "Chompion",
+            "img": "[[File:Chompion.png|center|150x150px]]",
+            "level": 17,
+            "location": "Deeper Forest",
+            "abilities": ["Poison"],
+            "damage": "???",
+            "exp": 102,
+            "misc": [
+                "[[File:Flamecap Fungi.jpg|center|50x50px]][[Miscellaneous Items|Flamecap Fungi <br/><small>(Level 2)</small>]]",
+                "[[File:Trumpet Spore.jpg|center|50x50px]][[Miscellaneous Items|Trumpet Spore <br/><small>(Level 2)</small>]]",
+                "[[File:Ghostcap Shroom.jpg|center|50x50px]][[Miscellaneous Items|Ghostcap Shroom <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 6
+        },
+        {
+            "name": "Tangy Speckling ",
+            "img": "[[File:Tangy Speckling.png|center|150x150px]]",
+            "level": 17,
+            "location": "Forest Heart",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 102,
+            "misc": [
+                "[[File:Game Meat.png|center|50x50px]][[Miscellaneous Items|Game Meat <br/><small>(Level 2)</small>]]",
+                "[[File:Beast Pelt (Level 1).png|center|50x50px]][[Miscellaneous Items|Beast Pelt <br/><small>(Level 2)</small>]]",
+                "[[File:Beast Bone.png|center|50x50px]][[Miscellaneous Items|Beast Bone <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 6
+        },
+        {
+            "name": "Arandan",
+            "img": "[[File:Arandan.png|center|150x150px]]",
+            "level": 18,
+            "location": "Forest Heart",
+            "abilities": ["Stun"],
+            "damage": "???",
+            "exp": 107,
+            "misc": [
+                "[[File:Fairy Dust.png|center|50x50px]][[Miscellaneous Items|Fairy Dust <br/><small>(Level 2)</small>]]",
+                "[[File:Fae Gems.png|center|50x50px]][[Miscellaneous Items|Fae Gems <br/><small>(Level 2)</small>]]",
+                "[[File:Fairy Wings.png|center|50x50px]][[Miscellaneous Items|Fairy Wings <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 6
+        },
+        {
+            "name": "Man-Eater Spider",
+            "img": "[[File:Man-Eater Spider.png|center|150x150px]]",
+            "level": 18,
+            "location": "Spiderling Tunnels",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 107,
+            "misc": [
+                "[[File:Mandible Pieces.jpg|center|50x50px]][[Miscellaneous Items|Mandible Pieces <br/><small>(Level 2)</small>]]",
+                "[[File:Larva.jpg|center|50x50px]][[Miscellaneous Items|Larva <br/><small>(Level 2)</small>]]",
+                "[[File:Rotten Egg.jpg|center|50x50px]][[Miscellaneous Items|Rotten Egg <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 6
+        },
+        {
+            "name": "Silkwalker ",
+            "img": "[[File:Silkwalker.png|center|150x150px]]",
+            "level": 19,
+            "location": "Spiderling Tunnels",
+            "abilities": ["Poison"],
+            "damage": "???",
+            "exp": 111,
+            "misc": [
+                "[[File:Mandible Pieces.jpg|center|50x50px]][[Miscellaneous Items|Mandible Pieces <br/><small>(Level 2)</small>]]",
+                "[[File:Larva.jpg|center|50x50px]][[Miscellaneous Items|Larva <br/><small>(Level 2)</small>]]",
+                "[[File:Rotten Egg.jpg|center|50x50px]][[Miscellaneous Items|Rotten Egg <br/><small>(Level 2)</small>]]"
+            ],
+            "familiar": 7
+        },
+        {
+            "name": "",
+            "img": "",
+            "level": 0,
+            "location": "",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 0,
+            "misc": [
+                "",
+                "",
+                ""
+            ],
+            "familiar": 0
+        }
+    ]
+}

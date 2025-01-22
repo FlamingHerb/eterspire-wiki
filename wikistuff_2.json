@@ -1,0 +1,422 @@
+{
+    "monsters" : [
+        {
+            "name": "",
+            "img": "[[File:NAMEHERE.png|center|150x150px]]",
+            "level": 0,
+            "location": "",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 0,
+            "misc": "Bug/Animal/Mushroom/Crab/Fairy/Undead/Demon/Reptile/Rock",
+            "familiar": 0
+        },
+        {
+            "name": "Shadow Deer",
+            "img": "[[File:Shadow Deer.png|center|150x150px]]",
+            "level": 30,
+            "location": "Abandoned Village",
+            "abilities": ["Blind"],
+            "damage": "???",
+            "exp": 161,
+            "misc": "Animal",
+            "familiar": 10
+        },
+        {
+            "name": "Ghostly Speckling",
+            "img": "[[File:Ghostly Speckling.png|center|150x150px]]",
+            "level": 30,
+            "location": "Bloodchrome Adit",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 161,
+            "misc": "Animal",
+            "familiar": 10
+        },
+        {
+            "name": "Nabbi",
+            "img": "[[File:Nabbi.png|center|150x150px]]",
+            "level": 30,
+            "location": "Firefly Corner",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 161,
+            "misc": "Rock",
+            "familiar": 10
+        },
+        {
+            "name": "Demon",
+            "img": "[[File:Demon.png|center|150x150px]]",
+            "level": 30,
+            "location": "Rune Circle",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 161,
+            "misc": "Demon",
+            "familiar": 10
+        },
+        {
+            "name": "Sour Nabbi",
+            "img": "[[File:Sour Nabbi.png|center|150x150px]]",
+            "level": 31,
+            "location": "Abandoned Bloodchrome Mine",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 165,
+            "misc": "Rock",
+            "familiar": 11
+        },
+        {
+            "name": "Cave Snakelet",
+            "img": "[[File:Cave Snakelet.png|center|150x150px]]",
+            "level": 32,
+            "location": "Abandoned Bloodchrome Mine",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 170,
+            "misc": "Reptile",
+            "familiar": 11
+        },
+        {
+            "name": "Forest Bat",
+            "img": "[[File:Forest Bat.png|center|150x150px]]",
+            "level": 32,
+            "location": "Firefly Corner",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 170,
+            "misc": "Animal",
+            "familiar": 11
+        },
+        {
+            "name": "Imp Fighter",
+            "img": "[[File:Imp Fighter.png|center|150x150px]]",
+            "level": 33,
+            "location": "Bloodchrome Core",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 174,
+            "misc": "Demon",
+            "familiar": 11
+        },
+        {
+            "name": "Murky Chompi",
+            "img": "[[File:Murky Chompi.png|center|150x150px]]",
+            "level": 34,
+            "location": "Murky Woods",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 179,
+            "misc": "Mushroom",
+            "familiar": 12
+        },
+        {
+            "name": "Cave Crabby",
+            "img": "[[File:Cave Crabby.png|center|150x150px]]",
+            "level": 34,
+            "location": "Bouli-Bouli Cave",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 179,
+            "misc": "Crab",
+            "familiar": 12
+        },
+        {
+            "name": "Bloodchrome Viper",
+            "img": "[[File:Bloodchrome Viper.png|center|150x150px]]",
+            "level": 35,
+            "location": "Napirohc's Rift",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 183,
+            "misc": "Reptile",
+            "familiar": 12
+        },
+        {
+            "name": "Bloodchrome Basilisk",
+            "img": "[[File:Bloodchrome Basilisk.png|center|150x150px]]",
+            "level": 36,
+            "location": "Napirohc's Rift",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 188,
+            "misc": "Reptile",
+            "familiar": 12
+        },
+        {
+            "name": "Glowmpi",
+            "img": "[[File:Glowmpi.png|center|150x150px]]",
+            "level": 36,
+            "location": "Bouli-Bouli Cave",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 188,
+            "misc": "Mushroom",
+            "familiar": 12
+        },
+        {
+            "name": "Cave Bat",
+            "img": "[[File:Cave Bat.png|center|150x150px]]",
+            "level": 37,
+            "location": "Upper Mine",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 192,
+            "misc": "Animal",
+            "familiar": 13
+        },
+        {
+            "name": "Serpent of the Depths",
+            "img": "[[File:Serpent of the Depths.png|center|150x150px]]",
+            "level": 38,
+            "location": "Upper Mine",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 197,
+            "misc": "Reptile",
+            "familiar": 13
+        },
+
+
+
+
+
+
+        {
+            "name": "",
+            "img": "[[File:NAMEHERE.png|center|150x150px]]",
+            "level": 0,
+            "location": "",
+            "abilities": ["None"],
+            "damage": "???",
+            "exp": 0,
+            "misc": "Bug/Animal/Mushroom/Crab/Fairy/Undead/Demon/Reptile/Rock",
+            "familiar": 0
+        },
+
+
+
+
+
+        {
+            "name": "Black Scorpion",
+            "img": "[[File:Black Scorpion.png|center|150x150px]]",
+            "level": 51,
+            "location": "Pyramid Entrance",
+            "abilities": ["None"],
+            "damage": "76 - 90",
+            "exp": 255,
+            "misc": "Bug",
+            "familiar": 17
+        },
+        {
+            "name": "Sapphiron",
+            "img": "[[File:Sapphiron.png|center|150x150px]]",
+            "level": 51,
+            "location": "Blue Temple I",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 255,
+            "misc": "Rock",
+            "familiar": 14
+        },
+        {
+            "name": "Sand Snake",
+            "img": "[[File:Sand Snake.png|center|150x150px]]",
+            "level": 52,
+            "location": "Pyramid Entrance",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 260,
+            "misc": "Reptile",
+            "familiar": 18
+        },
+        {
+            "name": "Saphiron Guardian",
+            "img": "[[File:Sapphiron Guardian.png|center|150x150px]]",
+            "level": 52,
+            "location": "Blue Temple II",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 260,
+            "misc": "Rock",
+            "familiar": 18
+        },
+        {
+            "name": "Greater Sapphiron",
+            "img": "[[File:Greater Sapphiron.png|center|150x150px]]",
+            "level": 53,
+            "location": "Blue Temple II",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 264,
+            "misc": "Rock",
+            "familiar": 18
+        },
+        {
+            "name": "Corpse Maggot",
+            "img": "[[File:Corpse Maggot.png|center|150x150px]]",
+            "level": 53,
+            "location": "Am-Rawash's Tomb (Northwest)",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 264,
+            "misc": "Bug",
+            "familiar": 18
+        },
+        {
+            "name": "Ancient Bat",
+            "img": "[[File:Ancient Bat.png|center|150x150px]]",
+            "level": 54,
+            "location": "Am-Rawash's Tomb (Northwest)",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 269,
+            "misc": "Animal",
+            "familiar": 18
+        },
+        {
+            "name": "Queen Corpse Maggot",
+            "img": "[[File:Queen Corpse Maggot.png|center|150x150px]]",
+            "level": 55,
+            "location": "Am-Rawash's Tomb (Southwest)",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 273,
+            "misc": "Bug",
+            "familiar": 19
+        },
+        {
+            "name": "Oasis Crabby",
+            "img": "[[File:Oasis Crabby.png|center|150x150px]]",
+            "level": 55,
+            "location": "Oasis",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 273,
+            "misc": "Crab",
+            "familiar": 19
+        },
+        {
+            "name": "Desert Speck",
+            "img": "[[File:Desert Speck.png|center|150x150px]]",
+            "level": 56,
+            "location": "Oasis",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 278,
+            "misc": "Animal",
+            "familiar": 19
+        },
+        {
+            "name": "Mummy",
+            "img": "[[File:Mummy.png|center|150x150px]]",
+            "level": 56,
+            "location": "Am-Rawash's Tomb (Southwest)",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 278,
+            "misc": "Undead",
+            "familiar": 19
+        },
+        {
+            "name": "Lesser Emeraldion",
+            "img": "[[File:Lesser Emeraldion.png|center|150x150px]]",
+            "level": 57,
+            "location": "Green Temple I",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 282,
+            "misc": "Rock",
+            "familiar": 19
+        },
+        {
+            "name": "Pyramid Snakelet",
+            "img": "[[File:Pyramid Snakelet.png|center|150x150px]]",
+            "level": 57,
+            "location": "Am-Rawash's Tomb (Northeast)",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 282,
+            "misc": "Reptile",
+            "familiar": 19
+        },
+        {
+            "name": "Desert Hound",
+            "img": "[[File:Desert Hound.png|center|150x150px]]",
+            "level": 57,
+            "location": "Mountain Pass",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 282,
+            "misc": "Animal",
+            "familiar": 19
+        },
+        {
+            "name": "Emperor Scorpion",
+            "img": "[[File:Emperor Scorpion.png|center|150x150px]]",
+            "level": 58,
+            "location": "Mountain Pass",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 287,
+            "misc": "Bug",
+            "familiar": 19
+        },
+        {
+            "name": "White Scorpion",
+            "img": "[[File:White Scorpion.png|center|150x150px]]",
+            "level": 58,
+            "location": "Am-Rawash's Tomb (Northeast)",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 287,
+            "misc": "Bug",
+            "familiar": 19
+        },
+        {
+            "name": "Emeraldion",
+            "img": "[[File:Emeraldion.png|center|150x150px]]",
+            "level": 58,
+            "location": "Green Temple I",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 287,
+            "misc": "Rock",
+            "familiar": 20
+        },
+        {
+            "name": "Rock Crab",
+            "img": "[[File:Rock Crab.png|center|150x150px]]",
+            "level": 55,
+            "location": "Rock Crabs Cave",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 291,
+            "misc": "Crab",
+            "familiar": 20
+        },
+        {
+            "name": "",
+            "img": "[[File:NAMEHERE.png|center|150x150px]]",
+            "level": 0,
+            "location": "",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 0,
+            "misc": "Bug/Animal/Mushroom/Crab/Fairy/Undead/Demon/Reptile/Rock",
+            "familiar": 0
+        },
+        {
+            "name": "",
+            "img": "[[File:NAMEHERE.png|center|150x150px]]",
+            "level": 0,
+            "location": "",
+            "abilities": ["None"],
+            "damage": "76 - 93",
+            "exp": 0,
+            "misc": "Bug/Animal/Mushroom/Crab/Fairy/Undead/Demon/Reptile/Rock",
+            "familiar": 0
+        }
+    ]
+}
