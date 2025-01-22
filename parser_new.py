@@ -1,6 +1,9 @@
 import json
 import math
 
+#
+target_level: int = 50
+
 icons = {
     "Poison": "[[File:Icon-poison.jpg|center|50x50px]]Poison ",
     "Slow": "[[File:Icon-slow.jpg|center|50x50px]]Slow ",
