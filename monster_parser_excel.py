@@ -141,7 +141,7 @@ if __name__ == '__main__':
         
         text_file.write(f"""
 <!-- ========== START: Monster Row ========== -->
-! rowspan='4' style="background-color: #8A412E; color: white; font-family: 'Verdana'; font-weight: 900; font-size: 14px; text-shadow: black 2px 2px; paint-order: stroke fill; -webkit-text-stroke: 2px black; border: 1px solid black; width: 175px;" |  [[File:{row['img']}.png|center|150x150px]] {row['name']} <br/> <small>(Lvl. {row['level']})</small>
+! rowspan='4' style="background-color: #8A412E; color: white; font-family: 'Verdana'; font-weight: 900; font-size: 14px; text-shadow: black 2px 2px; paint-order: stroke fill; -webkit-text-stroke: 2px black; border: 1px solid black; width: 175px;" |  [[File:{row['img']}.png|center|150x150px]] {row['name']} <br/> <small>(Lvl. {int(row['level'])})</small>
 |-
 ! style='height: 75px;' | Damage
 | style='text-align: center; background-color: #f5524b' | {row['damage']}
