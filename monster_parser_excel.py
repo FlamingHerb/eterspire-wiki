@@ -158,7 +158,7 @@ if __name__ == '__main__':
 ! Location
 | style='text-align: center' | [[Zone: {row['location']}|{row['location']}]]
 ! Familiar
-| colspan='3' style='border-left-style: none; background-color: #E2F3FF; text-align: center;' | [[File:{familiars_img[int(row['familiar']-1)]}.png|center|50x50px]][[Magical Familiar|Magical Familiar #{row['familiar']}]]
+| colspan='3' style='border-left-style: none; background-color: #E2F3FF; text-align: center;' | [[File:{familiars_img[int(row['familiar']-1)]}.png|center|50x50px]][[Magical Familiar|Magical Familiar #{int(row['familiar'])}]]
 <!-- ========== END: Monster Row ========== -->
 
 <!-- ========== BLANK SPACE ========== -->
