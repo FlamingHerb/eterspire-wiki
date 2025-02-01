@@ -149,7 +149,7 @@ if __name__ == '__main__':
 | colspan='3' style='text-align: center;' | {ability_string}
 |-
 ! Experience
-| style='text-align: center; background-color: #9cf54b;' | {row['exp']} EXP
+| style='text-align: center; background-color: #9cf54b;' | {int(row['exp'])} EXP
 ! Misc.
 | style='border-style: solid none; background-color: #E2F3FF;' | [[File:{misc_items[row['misc']][0]}.png|center|50x50px]][[Miscellaneous Items|{misc_items[row['misc']][0]} <br/><small>(Level {math.floor(row['level']/10)*10})</small>]]
 | style='border-style: solid none; background-color: #E2F3FF;' | [[File:{misc_items[row['misc']][1]}.png|center|50x50px]][[Miscellaneous Items|{misc_items[row['misc']][1]} <br/><small>(Level {math.floor(row['level']/10)*10})</small>]]
